@@ -22,3 +22,5 @@ Automated machine learning pipeline to streamline model development and hyperpar
 ### Density graphs for Outlier Removal
 <img width="446" alt="image" src="https://github.com/Yashcode007/Airfare-Prediction-Model-/assets/91584919/e728057a-a137-4e7f-99dc-5e08871f487e">
 
+### Distribution of Price vs Stops plot 
+![image](https://github.com/user-attachments/assets/51ce10dc-4cbb-4bd3-a19a-49ec4bb70068)
