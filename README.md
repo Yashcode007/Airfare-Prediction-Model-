@@ -6,7 +6,7 @@ Conducted robust data preprocessing, feature engineering, and outlier handling u
 encoding, target-guided encoding, and manual label encoding.
 
 Applied advanced algorithms including Random Forest, Decision Trees, Linear Regression, and K-Nearest
-Neighbours (KNN) to achieve accurate fare predictions, validated through cross-validation.
+Neighbours (KNN) to achieve accurate fare predictions, validated through cross-validation techniques.
 
 Automated machine learning pipeline to streamline model development and hyperparameter tuning, ensuring optimal accuracy and scalability for real-world applications and achieved an accuracy of 82 percent Price prediction
 
